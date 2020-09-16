@@ -21,4 +21,4 @@ waiting for software like Evernote to load eats at my soul 1 milisecond at a tim
 
 5. Run the program with <code>python3 idea</code>
 
-6. (optional) Create an alias in .bash_profile I.G: <code>alias plan="cd ~; cd YOUR_PATH/; python3 ideabulb.py"</code>
+6. (optional) Create an alias in .bash_profile I.G: <code>alias plan="cd ~; cd YOUR_PATH/; python3 quickidea.py"</code>
