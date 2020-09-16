@@ -11,7 +11,7 @@ waiting for software like Evernote to load eats at my soul 1 milisecond at a tim
 
 ### How do I use it?
 
-1. <code>git clone [REPLACE ME]</code> 
+1. <code>git clone https://github.com/8OX/QuickIdea.git</code> 
 
 2. Create a flowchart of ideas, interesting subject, or whatever you want and name it <code>flowchart.jpg</code> <br>You can create a flowchart on www.diagrams.net
 
