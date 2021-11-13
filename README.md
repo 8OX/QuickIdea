@@ -15,7 +15,7 @@ waiting for software like Evernote to load eats at my soul 1 milisecond at a tim
 
 2. Create a flowchart of ideas, interesting subject, or whatever you want and name it <code>flowchart.jpg</code> <br>You can create a flowchart on www.diagrams.net
 
-3. (optional) color code subjects in your flowchat that fall in similar field, I.G. red = Node.js and MongoDB
+3. (optional) color code subjects in your flowchat that fall in similar field, I.G. red = Javascript related ideas
 
 4. Place the flowchart in the main folder
 
